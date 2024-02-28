@@ -1,4 +1,4 @@
-[![MasterHead]([https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimarticus.org%2Fblog%2Fdo-you-need-a-phd-to-be-a-data-scientist%2F&psig=AOvVaw0lPMWEAldFrxsfYmeai_95&ust=1709202799838000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKChrd_qzYQDFQAAAAAdAAAAABAg))]
+[![MasterHead]([https://imarticus.org/blog/wp-content/uploads/2020/05/de.gif]
 <h1 align="center">Hi 👋, I'm Bedirhan</h1>
 <h3 align="center">I'm a Computer Engineering Student at Sakarya University</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
